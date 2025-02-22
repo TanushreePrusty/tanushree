@@ -1,4 +1,4 @@
-# tanushree
-This is my first Git repository
+tanushree
+This is my first repository.
 <br>
-Author-S.Tanushree Prusty
+Author-Tanushree (pari)
